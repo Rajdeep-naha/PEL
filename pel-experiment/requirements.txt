@@ -1,0 +1,18 @@
+# Core Deep Learning
+torch>=2.0.0
+torchvision
+torchaudio
+soundfile
+
+# Data Processing & Augmentation
+numpy
+kornia>=0.6.0
+requests
+tqdm
+datasets
+
+# Visualization & Metrics (for t-SNE and Plots)
+matplotlib
+seaborn
+scikit-learn
+pandas
